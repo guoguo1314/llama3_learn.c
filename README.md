@@ -7,7 +7,7 @@ First time open source, please point out any errors.
 > This way for [CN ](https://zhuanlan.zhihu.com/p/693541231)
 
 2. clone code
-
+> git clone https://github.com/guoguo1314/llama3_learn.c.git
 
 3. convert tokenizer
 
