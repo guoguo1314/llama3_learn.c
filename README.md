@@ -1,5 +1,5 @@
 **Notice：**
-This code  built on [llama2.c ](https://github.com/karpathy/llama2.c)for llama3, where convert-tokenizer-llama3.py is [distribution-llama](https://github.com/b4rtaz/distributed-llama).The code explanation can be found on [this page](https://blog.csdn.net/qq_44576434?spm=1000.2115.3001.5343)
+This code  built on [llama2.c ](https://github.com/karpathy/llama2.c)for Inference deployment of the llama3, where convert-tokenizer-llama3.py is [distribution-llama](https://github.com/b4rtaz/distributed-llama).The code explanation can be found on [this page](https://blog.csdn.net/qq_44576434?spm=1000.2115.3001.5343)
 First time open source, please point out any errors.
 
 1. download model
