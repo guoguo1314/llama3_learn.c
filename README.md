@@ -4,7 +4,7 @@ First time open source, please point out any errors.
 
 1. download model
 
-> This way for [CN ](https://zhuanlan.zhihu.com/p/693541231)
+> This way for [CN ](https://zhuanlan.zhihu.com/p/693541231)`
 
 2. clone code
 > git clone https://github.com/guoguo1314/llama3_learn.c.git
