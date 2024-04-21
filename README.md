@@ -21,6 +21,7 @@ First time open source, please point out any errors.
 5. run
 
 > make run
+> 
 > ./run llama3.c/llama3_8.bin
 
 6. appreciate
