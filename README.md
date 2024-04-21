@@ -8,6 +8,8 @@ First time open source, please point out any errors.
 
 2. clone code
 > git clone https://github.com/guoguo1314/llama3_learn.c.git
+>
+> cd llama3_learn.c
 
 3. convert tokenizer
 
@@ -22,7 +24,7 @@ First time open source, please point out any errors.
 
 > make run
 > 
-> ./run llama3.c/llama3_8.bin
+> ./run llama3_8.bin
 
 6. appreciate
 
