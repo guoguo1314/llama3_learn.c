@@ -4,7 +4,7 @@ For Chinese version, see [知乎](https://zhuanlan.zhihu.com/p/693700723)<br>
 First time open source, please point out any errors.
 
 ## 1. download model
-For CN,点[它](https://zhuanlan.zhihu.com/p/69354123)试试
+For CN,点[它](https://zhuanlan.zhihu.com/p/693541231)试试
 
 ## 2. clone code
     git clone https://github.com/guoguo1314/llama3_learn.c.git
